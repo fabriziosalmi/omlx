@@ -10062,7 +10062,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Applica"
+            "value" : "Salva"
           }
         }
       }
@@ -14578,7 +14578,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contesto massimo sacrifica la velocità del prefill per accettare prompt più grandi sotto pressione della memoria; Velocità mantiene il prefill alla massima velocità e rifiuta i prompt che non entrano in memoria."
+            "value" : "Contesto massimo rallenta il prefill per accettare prompt più grandi; Velocità lo tiene al massimo e rifiuta quelli che non entrano."
           }
         },
         "zh-Hans" : {
