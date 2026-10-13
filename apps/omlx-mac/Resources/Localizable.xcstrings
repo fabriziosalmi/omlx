@@ -14578,7 +14578,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contesto massimo rallenta il prefill per accettare prompt più grandi; Velocità lo tiene al massimo e rifiuta quelli che non entrano."
+            "value" : "Contesto massimo accetta prompt più grandi con un prefill più lento; Velocità rifiuta i prompt troppo grandi."
           }
         },
         "zh-Hans" : {
